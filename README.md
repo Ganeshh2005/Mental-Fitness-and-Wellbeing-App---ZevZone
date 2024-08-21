@@ -1,4 +1,4 @@
-ZevZone
+#ZevZone
 ZevZone is a comprehensive mental fitness and wellbeing app designed to support users in managing their mental health through various features. Our app provides tools and resources to help with relaxation, emotional tracking, and personal growth.
 
 Features
